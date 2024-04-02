@@ -15,7 +15,9 @@
 </p>
 <h1>Sobre mi</h1>
 -  Tengo un interés marcado en mantener altos niveles de productividad, eficiencia y cordialidad en todas mis interacciones.
+### <i>About</i>
 
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 
 <!--
 **JovanyMolina/JovanyMolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
