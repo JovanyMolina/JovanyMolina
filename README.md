@@ -1,7 +1,13 @@
 <!--### Hi there 👋-->
-<h1 align="center"><b> Hola </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
-<a>Estudio Ing. Sistemas Computacionales</a>
+<h1 align="center"><b> Hola <𝚍𝚎𝚟𝚜/> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<a>Estudio Ing. Sistemas Computacionales </a> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> 
+<br>
+<h1>Experiencia con herramientas durante mi tiempo en la universidad</h1>
+<br>  
+[![My Skills](https://skillicons.dev/icons?i=azure,HTML,PHP,JavaScript)](https://skillicons.dev)
+
+
+
 
 
 
