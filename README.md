@@ -6,7 +6,7 @@
 <br>  
   
 [![My Skills](https://skillicons.dev/icons?i=azure,html,css,php,js,bootstrap,react,java,cpp,c,cs,py,github,mysql,postgres,kotlin,arduino)](https://skillicons.dev)
-
+https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
 
 
 
