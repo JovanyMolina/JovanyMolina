@@ -6,8 +6,10 @@
 <br>
 <h1>Experiencia con herramientas durante mi tiempo en la universidad</h1>
 <br>  
-  
-[![My Skills](https://skillicons.dev/icons?i=azure,html,css,php,js,bootstrap,react,java,cpp,c,cs,py,github,mysql,postgres,kotlin,arduino)](https://skillicons.dev)(<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Sqlserver" data-canonical-src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;" _mstalt="6097">****)
+ <p align="center">
+ [![My Skills](https://skillicons.dev/icons?i=azure,html,css,php,js,bootstrap,react,java,cpp,c,cs,py,github,mysql,postgres,kotlin,arduino)](https://skillicons.dev)
+ 
+ </p>
 
 
 
