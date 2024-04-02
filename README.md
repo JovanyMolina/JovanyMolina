@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,php,js,bootstrap,react,java,cpp,c,cs,py,arduino,github,git,mysql,postgres,azure,kotlin&perline=8" />
   </a>
 </p>
-###<h1>Sobre mi</h1>
+h1>Sobre mi</h1>
 
 -   Tengo un interés marcado en mantener altos niveles de productividad, eficiencia y cordialidad en todas mis interacciones.
 
