@@ -15,7 +15,7 @@
 </p>
 ###<h1>Sobre mi</h1>
 
--  **** Tengo un interés marcado en mantener altos niveles de productividad, eficiencia y cordialidad en todas mis interacciones.
+-   Tengo un interés marcado en mantener altos niveles de productividad, eficiencia y cordialidad en todas mis interacciones.
 
 <!--
 **JovanyMolina/JovanyMolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
