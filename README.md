@@ -13,9 +13,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,php,js,bootstrap,react,java,cpp,c,cs,py,arduino,github,git,mysql,postgres,azure,kotlin&perline=8" />
   </a>
 </p>
-h1>Sobre mi</h1>
+
+<h1>Sobre mi</h1>
 
 -   Tengo un interés marcado en mantener altos niveles de productividad, eficiencia y cordialidad en todas mis interacciones.
+-   Entre mis cualidades destacadas se encuentran la capacidad para trabajar en equipo, la disposición para escuchar a los demás y el respeto hacia las ideas de mis compañeros de trabajo, así como hacia sus asuntos personales.
+-   Mantengo una actitud proactiva hacia el aprendizaje, siempre dispuesto a adquirir nuevos conocimientos en cualquier área en la que pueda carecer de experiencia previa.
 
 <!--
 **JovanyMolina/JovanyMolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
