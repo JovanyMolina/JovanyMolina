@@ -5,7 +5,7 @@
 <h1>Experiencia con herramientas durante mi tiempo en la universidad</h1>
 <br>  
   
-[![My Skills](https://skillicons.dev/icons?i=azure,HTML,PHP,JavaScript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,html,css,php,js,bootstrap,react,java,cpp,c,cs,py,github,mysql,postgres,kotlin,arduino)](https://skillicons.dev)
 
 
 
