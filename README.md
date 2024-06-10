@@ -22,7 +22,7 @@
 
 <h1>Certificado de Junior Cybersecurity Analyst Career Path</h1>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="18cb649c-ba85-485c-8243-cf9c0012952c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="18cb649c-ba85-485c-8243-cf9c0012952c" data-share-badge-host="https://www.credly.com"></div>
 
 <!--
 **JovanyMolina/JovanyMolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
