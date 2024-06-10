@@ -20,9 +20,6 @@
 -   Entre mis cualidades destacadas se encuentran la capacidad para trabajar en equipo, la disposición para escuchar a los demás y el respeto hacia las ideas de mis compañeros de trabajo, así como hacia sus asuntos personales.💪
 -   Mantengo una actitud proactiva hacia el aprendizaje, siempre dispuesto a adquirir nuevos conocimientos en cualquier área en la que pueda carecer de experiencia previa.🤓
 
-<h1>Certificado de Junior Cybersecurity Analyst Career Path</h1>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="18cb649c-ba85-485c-8243-cf9c0012952c" data-share-badge-host="https://www.credly.com"></div>
 
 <!--
 **JovanyMolina/JovanyMolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
