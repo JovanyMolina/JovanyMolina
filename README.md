@@ -1,37 +1,78 @@
-<!--### Hi there 👋-->
-<h1 align="center"><b> Hola <𝚍𝚎𝚟𝚜/> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> 
-  <a align="center">Actualmente estoy cursando con la carrera de Ingeniería en Sistemas Computacionales </a>
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> 
-<br>
-<h1>Experiencia con herramientas durante mi tiempo en la universidad</h1>
-  
-<br>  
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hola, soy Jovany Molina<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,js,bootstrap,react,java,cpp,c,cs,py,arduino,github,git,mysql,postgres,azure,kotlin&perline=8" />
-  </a>
-</p>
+###
 
-<h1>Sobre mi</h1>
+<h3 align="center">Full Stack Developer | Ingeniería en Sistemas Computacionales</h3>
 
--   Tengo un interés marcado en mantener altos niveles de productividad, eficiencia y cordialidad en todas mis interacciones.🏢
--   Entre mis cualidades destacadas se encuentran la capacidad para trabajar en equipo, la disposición para escuchar a los demás y el respeto hacia las ideas de mis compañeros de trabajo, así como hacia sus asuntos personales.💪
--   Mantengo una actitud proactiva hacia el aprendizaje, siempre dispuesto a adquirir nuevos conocimientos en cualquier área en la que pueda carecer de experiencia previa.🤓
+###
 
+<p align="left">💻 Desarrollador full stack con experiencia en automatización (Puppeteer) de procesos, desarrollo de interfaces modernas y conexión a APIs dinámicas.  <br>📚 Apasionado por el aprendizaje continuo y la mejora constante, con especial interés en tecnologías para la industria 4.0.  <br>🚀 Me adapto rápidamente a nuevos entornos y disfruto trabajar tanto en equipo como de forma autónoma.</p>
 
-<!--
-**JovanyMolina/JovanyMolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="center">Tecnologías que manejo</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ....
--->
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
+
+###
+
+<h3 align="center">Certificaciones</h3>
+
+###
+
+<p align="left">📜 CCNAv7: Switching, Routing and Wireless Essentials<br>📜 Junior Cybersecurity Analyst Career Path   <br>📜 CCNAv7: Introduction to Networks</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JovanyMolina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JovanyMolina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
